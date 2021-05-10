@@ -9,7 +9,7 @@ const Dashboard = () => {
         <>
             <NavBar />
             <div className="container">
-                <h1 className="text-primary py-3">DshBoard de Vendas!a</h1>
+                <h1 className="text-primary py-3">DashBoard de Vendas!</h1>
 
                 <div className="row px-3">
                     <div className="col-sm-6">
@@ -17,7 +17,7 @@ const Dashboard = () => {
                         <BarChart />
                     </div>
                     <div className="col-sm-6">
-                        <h5 className="text-center text-secundary">TOdas as vendas</h5>
+                        <h5 className="text-center text-secundary">Todas as vendas</h5>
                         <DonutChart />
                     </div>
 
